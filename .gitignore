@@ -1,0 +1,18 @@
+# Intellij
+**/.idea/**
+**/.idea
+.idea
+.idea/**
+
+# For mac
+.DS_Store
+
+# For node
+package-lock.json
+node_modules
+config/keys-dev.js
+**/build/
+.env.production
+.env.dev
+client/.env.development
+client/.env.dev
