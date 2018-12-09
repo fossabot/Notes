@@ -29,3 +29,5 @@ This a sample nodejs + react microservice that I created when I was first learni
 ## Run
     npm run dev
     
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fayonious%2FNotes.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fayonious%2FNotes?ref=badge_large)
