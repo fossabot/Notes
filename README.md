@@ -1,6 +1,7 @@
 # Notes
 
 [![Build Status](https://travis-ci.org/ayonious/Notes.svg?branch=master)](https://travis-ci.org/ayonious/Notes)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fayonious%2FNotes.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fayonious%2FNotes?ref=badge_shield)
 
 A simple notebook for keeping your daily notes.
 
@@ -28,6 +29,4 @@ This a sample nodejs + react microservice that I created when I was first learni
 
 ## Run
     npm run dev
-    
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fayonious%2FNotes.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fayonious%2FNotes?ref=badge_large)
+ 
